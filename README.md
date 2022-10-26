@@ -7,7 +7,7 @@ by Aakanksha Duggal and Hema Veeradhi
 ## Lecture Contents
 
 * What is time series?
-* Real world Applications
+* Real world Applications of Time Series
 * Overview of Time Series Algorithms
   * Linear Regression
   * Exponential
@@ -21,7 +21,7 @@ by Aakanksha Duggal and Hema Veeradhi
 
 Here are some resources to help you get started with Time Series Analysis:
 
-* Time Series Analyis GitHub repo - https://github.com/aicoe-aiops/time-series
+* Time Series Analysis GitHub repo - https://github.com/aicoe-aiops/time-series
 * Prometheus Anomaly Detection workshop Part 1 - https://developers.redhat.com/courses/ai-ml/prometheus
 * Prometheus Anomaly Detection workshop Part 2 - https://developers.redhat.com/courses/ai-ml/time-series-forecasting-prometheus-metrics
 * Prometheus Anomaly Detection project - https://github.com/AICoE/prometheus-anomaly-detector
